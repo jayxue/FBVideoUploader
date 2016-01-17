@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="restfb-1.6.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FBVideoUploaderSDK/libs/restfb-1.6.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
