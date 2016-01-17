@@ -6,6 +6,7 @@ An Android library that helps deverlopers easily create apps with the functional
 ![Demo Screenshot 2](https://github.com/jayxue/FBVideoUploader/blob/master/FBVideoUploaderSDK/src/main/res/raw/screenshot_2.png)
 ![Demo Screenshot 3](https://github.com/jayxue/FBVideoUploader/blob/master/FBVideoUploaderSDK/src/main/res/raw/screenshot_3.png)
 ![Demo Screenshot 4](https://github.com/jayxue/FBVideoUploader/blob/master/FBVideoUploaderSDK/src/main/res/raw/screenshot_4.png)
+![Demo Screenshot 4](https://github.com/jayxue/FBVideoUploader/blob/master/FBVideoUploaderSDK/src/main/res/raw/screenshot_5.png)
 
 Details
 -------
