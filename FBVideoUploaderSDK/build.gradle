@@ -3,6 +3,8 @@ apply plugin: 'com.android.library'
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.2"
+
+    // If we are using target sdk as 23 and we need apache http library, then we need to add the code below
     useLibrary  'org.apache.http.legacy'
 
     defaultConfig {
