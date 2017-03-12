@@ -1,6 +1,6 @@
 # FBVideoUploader - Android library for eazily uploading videos to Facebook
 
-An Android library that helps deverlopers easily create apps with the functionality of uploading videos to Facebook.
+An Android library that helps developers easily create apps with the functionality of uploading videos to Facebook.
 
 ![Demo Screenshot 1](https://github.com/jayxue/FBVideoUploader/blob/master/FBVideoUploaderSDK/src/main/res/raw/screenshot_1.png)
 ![Demo Screenshot 2](https://github.com/jayxue/FBVideoUploader/blob/master/FBVideoUploaderSDK/src/main/res/raw/screenshot_2.png)
